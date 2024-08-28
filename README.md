@@ -1,5 +1,6 @@
 
 Introduction
+
 This is a profile application page built using React.js with custom CSS and SCSS, designed to be fully mobile-friendly. The application dynamically fetches data from GitHub, including usernames and repositories, providing an interactive and responsive user experience.
 
 Why React JS
