@@ -4,6 +4,7 @@ Introduction
 This is a profile application page built using React.js with custom CSS and SCSS, designed to be fully mobile-friendly. The application dynamically fetches data from GitHub, including usernames and repositories, providing an interactive and responsive user experience.
 
 Why React JS
+
 1 Component based Architecture: React follows a component-based architecture, meaning you can break down the UI into small, reusable pieces of code called components.
 
 2 SEO Friendliness: Faster loading times and improved user experience also contribute to better SEO rankings, as search engines prioritize websites that offer a good user experience.
@@ -12,6 +13,7 @@ Why React JS
 
 
 API Call With Axios
+
 Axios is a popular JavaScript library used to make HTTP requests from the browser or Node.js. It simplifies the process of sending asynchronous HTTP requests to RESTful endpoints and handling responses.
 We are calling Two API’S in this project one for getting user profile details and another one for getting repositories. As shown below 
 1: Api for getting user profile details
